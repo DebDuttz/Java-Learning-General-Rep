@@ -1,0 +1,377 @@
+1️⃣ Basics Concepts of OOPS (20 Questions)
+
+What is Object-Oriented Programming (OOP)?
+
+Define an object with a real-life example.
+
+Define a class. How is it different from an object?
+
+What are the four pillars of OOPS?
+
+Explain Encapsulation with an example.
+
+Explain Abstraction with an example.
+
+Explain Inheritance with an example.
+
+Explain Polymorphism with an example.
+
+What is data hiding?
+
+What is message passing in OOPS?
+
+Difference between procedural programming and OOPS.
+
+What are access specifiers?
+
+What is dynamic binding?
+
+What is static binding?
+
+What is modularity in OOPS?
+
+What is reusability?
+
+What is maintainability?
+
+Why is OOPS preferred over procedural programming?
+
+What is an instance variable?
+
+What is an instance method?
+
+2️⃣ General About OOPS Concepts (20 Questions)
+
+Explain the need for OOPS.
+
+What are the advantages of OOPS?
+
+What are the disadvantages of OOPS?
+
+Explain real-world modeling in OOPS.
+
+What is object communication?
+
+What is coupling in OOPS?
+
+What is cohesion in OOPS?
+
+Difference between strong coupling and loose coupling.
+
+Difference between high cohesion and low cohesion.
+
+Explain software reusability using OOPS.
+
+What is scalability in OOPS?
+
+What is extensibility?
+
+Explain OOPS in software engineering.
+
+What is code maintainability?
+
+How does OOPS support large-scale applications?
+
+What is abstraction vs encapsulation?
+
+Explain compile-time vs runtime concepts in OOPS.
+
+What is object lifecycle?
+
+What is responsibility-driven design?
+
+Explain object-based vs object-oriented programming.
+
+3️⃣ Constructor and Destructor (20 Questions)
+
+What is a constructor?
+
+Why are constructors used?
+
+Types of constructors.
+
+What is a default constructor?
+
+What is a parameterized constructor?
+
+What is a copy constructor?
+
+Constructor overloading.
+
+Can constructors be inherited?
+
+Can constructors be overridden?
+
+Can a constructor be private?
+
+What is constructor chaining?
+
+Use of this keyword in constructors.
+
+What is a destructor?
+
+Purpose of a destructor.
+
+When is a destructor called?
+
+Difference between constructor and destructor.
+
+Can destructors be overloaded?
+
+Can destructors take parameters?
+
+Role of garbage collection vs destructor.
+
+Explain constructor and destructor with example.
+
+4️⃣ Abstract Class (20 Questions)
+
+What is an abstract class?
+
+Why do we use abstract classes?
+
+What is an abstract method?
+
+Difference between abstract class and concrete class.
+
+Can an abstract class have constructors?
+
+Can abstract class contain non-abstract methods?
+
+Can abstract class contain variables?
+
+Can we create an object of abstract class?
+
+What happens if subclass does not implement abstract methods?
+
+Difference between abstraction and abstract class.
+
+Can abstract class implement an interface?
+
+Can abstract class be inherited?
+
+Use cases of abstract classes.
+
+Abstract class vs interface.
+
+Can abstract class have static methods?
+
+Can abstract class have final methods?
+
+What is partial abstraction?
+
+What is full abstraction?
+
+Real-life example of abstract class.
+
+Advantages of abstract class.
+
+5️⃣ Threads / Multithreading (20 Questions)
+
+What is a thread?
+
+What is multithreading?
+
+Difference between process and thread.
+
+Advantages of multithreading.
+
+Life cycle of a thread.
+
+Thread states.
+
+What is concurrency?
+
+What is parallelism?
+
+Difference between concurrency and parallelism.
+
+How is a thread created?
+
+Difference between single-threaded and multi-threaded programs.
+
+What is thread scheduling?
+
+What is thread priority?
+
+What is synchronization?
+
+Why is synchronization needed?
+
+What is deadlock?
+
+What is starvation?
+
+What is race condition?
+
+Inter-thread communication.
+
+Real-world application of multithreading.
+
+6️⃣ Packages (20 Questions)
+
+What is a package?
+
+Why are packages used?
+
+Types of packages.
+
+Built-in packages.
+
+User-defined packages.
+
+How to create a package?
+
+How to access a package?
+
+What is package hierarchy?
+
+Difference between package and class.
+
+Advantages of packages.
+
+What is namespace?
+
+What is package encapsulation?
+
+What is CLASSPATH?
+
+How packages support modular programming?
+
+Access protection in packages.
+
+Importing packages.
+
+Static import.
+
+Package vs interface.
+
+Package naming conventions.
+
+Real-world use of packages.
+
+7️⃣ Interfaces (20 Questions)
+
+What is an interface?
+
+Why do we use interfaces?
+
+Difference between interface and class.
+
+Difference between interface and abstract class.
+
+Can interface have variables?
+
+Can interface have methods?
+
+Can interface have default methods?
+
+Can interface have static methods?
+
+Can interface have constructors?
+
+Can a class implement multiple interfaces?
+
+What is multiple inheritance?
+
+How interface supports multiple inheritance?
+
+Can interface extend another interface?
+
+What is functional interface?
+
+What is marker interface?
+
+What happens if class does not implement all interface methods?
+
+Use cases of interfaces.
+
+Interface vs inheritance.
+
+Interface-based programming.
+
+Real-life example of interface.
+
+8️⃣ File Handling (20 Questions)
+
+What is file handling?
+
+Why is file handling required?
+
+Types of files.
+
+What is file stream?
+
+What is input stream?
+
+What is output stream?
+
+Difference between text file and binary file.
+
+File modes.
+
+How to create a file programmatically?
+
+How to read data from a file?
+
+How to write data to a file?
+
+How to append data to a file?
+
+What is file pointer?
+
+What is serialization?
+
+What is deserialization?
+
+Exception handling in file handling.
+
+Advantages of file handling.
+
+File handling vs database.
+
+Security issues in file handling.
+
+Real-world applications of file handling.
+
+9️⃣ Exception Handling (20 Questions)
+
+What is an exception?
+
+Difference between error and exception.
+
+What is exception handling?
+
+Why is exception handling needed?
+
+Types of exceptions.
+
+Checked exceptions.
+
+Unchecked exceptions.
+
+What is try block?
+
+What is catch block?
+
+What is finally block?
+
+Can multiple catch blocks be used?
+
+Can try exist without catch?
+
+Can finally exist without catch?
+
+What is throw keyword?
+
+What is throws keyword?
+
+User-defined exceptions.
+
+Exception propagation.
+
+Nested try-catch.
+
+Advantages of exception handling.
+
+Real-life example of exception handling.
